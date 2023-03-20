@@ -1,6 +1,13 @@
 {
-    "dayOfWeek": "Week of Mar 13th",
+    "dayOfWeek": "Week of Mar 20th",
     "schedule": [
+        {
+            "day": "tues",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Curious Curios"
+        },
         {
             "day": "wed",
             "hours": 20,
@@ -21,6 +28,13 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Pipe Dreamers"
+        },
+        {
+            "day": "sun",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Why Slay Dragons when I could be FISHING One Off"
         }
     ]
 }
