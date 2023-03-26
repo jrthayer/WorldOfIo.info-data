@@ -1,13 +1,6 @@
 {
-    "dayOfWeek": "Week of Mar 20th",
+    "dayOfWeek": "Week of Mar 27th",
     "schedule": [
-        {
-            "day": "tues",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Curious Curios"
-        },
         {
             "day": "wed",
             "hours": 20,
