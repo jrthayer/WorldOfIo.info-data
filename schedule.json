@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Mar 27th",
+    "dayOfWeek": "Week of Apr 3rd",
     "schedule": [
         {
             "day": "wed",
@@ -7,6 +7,13 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Into The Shadow's Breach"
+        },
+        {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
         },
         {
             "day": "thurs",
