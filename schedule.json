@@ -1,13 +1,6 @@
 {
-    "dayOfWeek": "Week of Apr 3rd",
+    "dayOfWeek": "Week of Apr 10th",
     "schedule": [
-        {
-            "day": "wed",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Into The Shadow's Breach"
-        },
         {
             "day": "thurs",
             "hours": 16,
@@ -21,13 +14,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Pipe Dreamers"
-        },
-        {
-            "day": "sat",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Why Slay Dragons when I could be FISHING One Off"
         }
     ]
 }
