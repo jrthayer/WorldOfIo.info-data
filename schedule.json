@@ -1,6 +1,13 @@
 {
-    "dayOfWeek": "Week of Apr 10th",
+    "dayOfWeek": "Week of Apr 17th",
     "schedule": [
+        {
+            "day": "tues",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Curious Curios"
+        },
         {
             "day": "thurs",
             "hours": 16,
