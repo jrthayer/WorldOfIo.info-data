@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Apr 17th",
+    "dayOfWeek": "Week of Apr 24th",
     "schedule": [
         {
             "day": "tues",
@@ -9,18 +9,11 @@
             "name": "Curious Curios"
         },
         {
-            "day": "thurs",
+            "day": "wed",
             "hours": 16,
             "minutes": 0,
             "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "thurs",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Pipe Dreamers"
+            "name": "D&D Workshop"
         }
     ]
 }
