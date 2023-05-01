@@ -10,10 +10,31 @@
         },
         {
             "day": "wed",
-            "hours": 16,
+            "hours": 13,
             "minutes": 0,
             "timezone": "est",
             "name": "D&D Workshop"
+        },
+        {
+            "day": "wed",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "WSD: Fishing Session"
+        },
+        {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
+        {
+            "day": "thurs",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Pipe Dreamers"
         }
     ]
 }
