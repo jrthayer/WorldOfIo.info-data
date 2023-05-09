@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of May 1st",
+    "dayOfWeek": "Week of May 8th",
     "schedule": [
         {
             "day": "tues",
@@ -35,6 +35,13 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Pipe Dreamers"
+        },
+        {
+            "day": "fri",
+            "hours": 10,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Zelda - Tears of the Kingdom"
         }
     ]
 }
