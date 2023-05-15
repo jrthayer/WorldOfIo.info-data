@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of May 8th",
+    "dayOfWeek": "Week of May 15th",
     "schedule": [
         {
             "day": "tues",
@@ -16,13 +16,6 @@
             "name": "D&D Workshop"
         },
         {
-            "day": "wed",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "WSD: Fishing Session"
-        },
-        {
             "day": "thurs",
             "hours": 16,
             "minutes": 0,
@@ -35,13 +28,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Pipe Dreamers"
-        },
-        {
-            "day": "fri",
-            "hours": 10,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Zelda - Tears of the Kingdom"
         }
     ]
 }
