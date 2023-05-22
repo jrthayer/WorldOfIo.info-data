@@ -1,20 +1,6 @@
 {
-    "dayOfWeek": "Week of May 15th",
+    "dayOfWeek": "Week of May 22nd",
     "schedule": [
-        {
-            "day": "tues",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Curious Curios"
-        },
-        {
-            "day": "wed",
-            "hours": 13,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "D&D Workshop"
-        },
         {
             "day": "thurs",
             "hours": 16,
