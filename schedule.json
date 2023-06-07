@@ -1,16 +1,9 @@
 {
-    "dayOfWeek": "Week of May 29th",
+    "dayOfWeek": "Week of June 5th",
     "schedule": [
         {
-            "day": "tues",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Curious Curios"
-        },
-        {
             "day": "thurs",
-            "hours": 16,
+            "hours": 17,
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
