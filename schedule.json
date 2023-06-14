@@ -1,19 +1,4 @@
 {
-    "dayOfWeek": "Week of June 5th",
-    "schedule": [
-        {
-            "day": "thurs",
-            "hours": 17,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "thurs",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Pipe Dreamers"
-        }
-    ]
+    "dayOfWeek": "Week of June 12th",
+    "schedule": []
 }
