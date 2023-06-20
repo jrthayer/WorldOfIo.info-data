@@ -1,4 +1,26 @@
 {
-    "dayOfWeek": "Week of June 12th",
-    "schedule": []
+    "dayOfWeek": "Week of June 19th",
+    "schedule": [
+        {
+            "day": "wed",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Why Slay Dragons: Fishing Session"
+        },
+        {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
+        {
+            "day": "thurs",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Pipe Dreamers"
+        }
+    ]
 }
