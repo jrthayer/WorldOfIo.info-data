@@ -1,12 +1,12 @@
 {
-    "dayOfWeek": "Week of June 19th",
+    "dayOfWeek": "Week of June 26th",
     "schedule": [
         {
-            "day": "wed",
+            "day": "tues",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Why Slay Dragons: Fishing Session"
+            "name": "Curious Curios"
         },
         {
             "day": "thurs",
