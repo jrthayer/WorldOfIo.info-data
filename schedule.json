@@ -1,26 +1,12 @@
 {
-    "dayOfWeek": "Week of June 26th",
+    "dayOfWeek": "Week of July 3rd",
     "schedule": [
         {
-            "day": "tues",
+            "day": "mon",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Curious Curios"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "thurs",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Pipe Dreamers"
+            "name": "Into The Shadow's Breach"
         }
     ]
 }
