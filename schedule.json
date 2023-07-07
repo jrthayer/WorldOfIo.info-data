@@ -7,6 +7,13 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Into The Shadow's Breach"
+        },
+        {
+            "day": "sat",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Lost Mines of Phandelver Hardcore: Session 0"
         }
     ]
 }
