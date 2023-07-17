@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of July 10th",
+    "dayOfWeek": "Week of July 17th",
     "schedule": [
         {
             "day": "mon",
@@ -7,20 +7,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Into The Shadow's Breach"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "sat",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Lost Mines of Phandelver"
         }
     ]
 }
