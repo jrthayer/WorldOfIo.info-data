@@ -1,13 +1,6 @@
 {
-    "dayOfWeek": "Week of July 24th",
+    "dayOfWeek": "Week of July 31st",
     "schedule": [
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
         {
             "day": "thurs",
             "hours": 20,
