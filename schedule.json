@@ -2,13 +2,6 @@
     "dayOfWeek": "Week of July 31st",
     "schedule": [
         {
-            "day": "thurs",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Pipe Dreamers"
-        },
-        {
             "day": "sat",
             "hours": 20,
             "minutes": 0,
