@@ -1,6 +1,27 @@
 {
-    "dayOfWeek": "Week of July 31st",
+    "dayOfWeek": "Week of Aug 14th",
     "schedule": [
+        {
+            "day": "mon",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": " Into the Shadow's Breach"
+        },
+        {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
+        {
+            "day": "thurs",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Pipe Dreamers"
+        },
         {
             "day": "sat",
             "hours": 20,
