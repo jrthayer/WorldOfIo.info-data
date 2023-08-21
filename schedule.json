@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Aug 14th",
+    "dayOfWeek": "Week of Aug 21st",
     "schedule": [
         {
             "day": "mon",
@@ -14,13 +14,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
-        },
-        {
-            "day": "thurs",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Pipe Dreamers"
         },
         {
             "day": "sat",
