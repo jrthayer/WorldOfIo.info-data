@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Aug 21st",
+    "dayOfWeek": "Week of Aug 28th",
     "schedule": [
         {
             "day": "mon",
@@ -13,14 +13,14 @@
             "hours": 16,
             "minutes": 0,
             "timezone": "est",
-            "name": "Deadbeats"
+            "name": "Deadbeats Downtime"
         },
         {
             "day": "sat",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Lost Mines of Phandelver"
+            "name": "Lost Mines of Phandelver Downtime"
         }
     ]
 }
