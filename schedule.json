@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Aug 28th",
+    "dayOfWeek": "Week of Sept 4th",
     "schedule": [
         {
             "day": "mon",
@@ -20,7 +20,7 @@
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Lost Mines of Phandelver Downtime"
+            "name": "Lost Mines of Phandelver"
         }
     ]
 }
