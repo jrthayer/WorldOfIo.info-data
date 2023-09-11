@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Sept 4th",
+    "dayOfWeek": "Week of Sept 11th",
     "schedule": [
         {
             "day": "mon",
@@ -13,7 +13,7 @@
             "hours": 16,
             "minutes": 0,
             "timezone": "est",
-            "name": "Deadbeats Downtime"
+            "name": "Deadbeats Fanart Session"
         },
         {
             "day": "sat",
