@@ -1,20 +1,6 @@
 {
-    "dayOfWeek": "Week of Sept 11th",
+    "dayOfWeek": "Week of Sept 18th",
     "schedule": [
-        {
-            "day": "mon",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Into The Shadow's Breach"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats Fanart Session"
-        },
         {
             "day": "sat",
             "hours": 20,
