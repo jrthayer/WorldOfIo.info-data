@@ -1,6 +1,13 @@
 {
-    "dayOfWeek": "Week of Sept 18th",
+    "dayOfWeek": "Week of Sept 25th",
     "schedule": [
+        {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
         {
             "day": "sat",
             "hours": 20,
