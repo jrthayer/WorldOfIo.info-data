@@ -1,19 +1,12 @@
 {
-    "dayOfWeek": "Week of Oct 9th",
+    "dayOfWeek": "Week of Oct 16th",
     "schedule": [
         {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "sat",
+            "day": "mon",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Lost Mines of Phandelver"
+            "name": "Into The Shadow's Breach"
         }
     ]
 }
