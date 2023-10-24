@@ -1,12 +1,26 @@
 {
-    "dayOfWeek": "Week of Oct 16th",
+    "dayOfWeek": "Week of Oct 23rd",
     "schedule": [
         {
-            "day": "mon",
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
+        {
+            "day": "fri",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Into The Shadow's Breach"
+            "name": "Lords of the Fallen TTRPG Session 1! (#sponsored)"
+        },
+        {
+            "day": "sat",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Lost Mines of Phandelver"
         }
     ]
 }
