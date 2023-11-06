@@ -1,19 +1,12 @@
 {
-    "dayOfWeek": "Week of Oct 30th",
+    "dayOfWeek": "Week of Nov 6th",
     "schedule": [
         {
             "day": "mon",
-            "hours": 21,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Into The Shadow's Breach"
-        },
-        {
-            "day": "wed",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "CAMPAIGN #6 ANNOUNCEMENT"
+            "name": "Into The Shadow's Breach"
         },
         {
             "day": "thurs",
@@ -27,7 +20,7 @@
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Lords of the Fallen TTRPG! (#sponsored)"
+            "name": "Lords of the Fallen Finale (#sponsored)!"
         },
         {
             "day": "sat",
