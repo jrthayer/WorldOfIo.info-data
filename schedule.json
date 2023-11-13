@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Nov 6th",
+    "dayOfWeek": "Week of Nov 13th",
     "schedule": [
         {
             "day": "mon",
@@ -14,20 +14,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
-        },
-        {
-            "day": "fri",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Lords of the Fallen Finale (#sponsored)!"
-        },
-        {
-            "day": "sat",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Lost Mines of Phandelver"
         }
     ]
 }
