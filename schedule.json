@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Nov 13th",
+    "dayOfWeek": "Week of Nov 20th",
     "schedule": [
         {
             "day": "mon",
@@ -9,11 +9,25 @@
             "name": "Into The Shadow's Breach"
         },
         {
-            "day": "thurs",
-            "hours": 16,
+            "day": "tues",
+            "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Deadbeats"
+            "name": "Curious Curios"
+        },
+        {
+            "day": "wed",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Dawn Of Ganymede"
+        },
+        {
+            "day": "sat",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Lost Mines of Phandelver HARDCORE"
         }
     ]
 }
