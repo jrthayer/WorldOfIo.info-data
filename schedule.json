@@ -1,13 +1,6 @@
 {
-    "dayOfWeek": "Week of Nov 20th",
+    "dayOfWeek": "Week of Nov 27th",
     "schedule": [
-        {
-            "day": "mon",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Into The Shadow's Breach"
-        },
         {
             "day": "tues",
             "hours": 20,
@@ -21,6 +14,13 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Dawn Of Ganymede"
+        },
+        {
+            "day": "wed",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
         },
         {
             "day": "sat",
