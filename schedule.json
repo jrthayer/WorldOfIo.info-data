@@ -1,6 +1,13 @@
 {
-    "dayOfWeek": "Week of Nov 27th",
+    "dayOfWeek": "Week of Dec 4th",
     "schedule": [
+        {
+            "day": "mon",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Into The Shadow's Breach"
+        },
         {
             "day": "tues",
             "hours": 20,
