@@ -1,13 +1,6 @@
 {
-    "dayOfWeek": "Week of Dec 4th",
+    "dayOfWeek": "Week of Dec 11th",
     "schedule": [
-        {
-            "day": "mon",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Into The Shadow's Breach"
-        },
         {
             "day": "tues",
             "hours": 20,
@@ -28,13 +21,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
-        },
-        {
-            "day": "sat",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Lost Mines of Phandelver HARDCORE"
         }
     ]
 }
