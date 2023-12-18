@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Dec 11th",
+    "dayOfWeek": "Week of Dec 18th",
     "schedule": [
         {
             "day": "tues",
@@ -9,18 +9,18 @@
             "name": "Curious Curios"
         },
         {
-            "day": "wed",
+            "day": "thurs",
+            "hours": 18,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Lethal Company"
+        },
+        {
+            "day": "sat",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Dawn Of Ganymede"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
+            "name": "Lost Mines of Phandelver HARDCORE"
         }
     ]
 }
