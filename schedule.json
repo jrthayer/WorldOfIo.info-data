@@ -1,12 +1,26 @@
 {
-    "dayOfWeek": "Week of Dec 25th",
+    "dayOfWeek": "Week of Jan 1st",
     "schedule": [
+        {
+            "day": "mon",
+            "hours": 14,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "New Years Celebration Stream!"
+        },
         {
             "day": "wed",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
             "name": "Dawn Of Ganymede"
+        },
+        {
+            "day": "sat",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Lost Mines of Phandelver HARDCORE"
         }
     ]
 }
