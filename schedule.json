@@ -16,6 +16,13 @@
             "name": "Dawn Of Ganymede"
         },
         {
+            "day": "fri",
+            "hours": 17,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Lethal Company"
+        },
+        {
             "day": "sat",
             "hours": 20,
             "minutes": 0,
