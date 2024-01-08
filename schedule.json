@@ -1,12 +1,12 @@
 {
-    "dayOfWeek": "Week of Jan 1st",
+    "dayOfWeek": "Week of Jan 8th",
     "schedule": [
         {
             "day": "mon",
-            "hours": 14,
+            "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "New Years Celebration Stream!"
+            "name": "Into The Shadow's Breach"
         },
         {
             "day": "wed",
@@ -16,18 +16,18 @@
             "name": "Dawn Of Ganymede"
         },
         {
+            "day": "thur",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
+        {
             "day": "fri",
-            "hours": 17,
+            "hours": 18,
             "minutes": 0,
             "timezone": "est",
             "name": "Lethal Company"
-        },
-        {
-            "day": "sat",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Lost Mines of Phandelver HARDCORE"
         }
     ]
 }
