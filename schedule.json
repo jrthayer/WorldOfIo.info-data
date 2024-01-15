@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Jan 8th",
+    "dayOfWeek": "Week of Jan 15th",
     "schedule": [
         {
             "day": "mon",
@@ -7,27 +7,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Into The Shadow's Breach"
-        },
-        {
-            "day": "wed",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Dawn Of Ganymede"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "fri",
-            "hours": 18,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Lethal Company"
         }
     ]
 }
