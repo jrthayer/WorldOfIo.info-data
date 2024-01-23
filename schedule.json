@@ -1,12 +1,19 @@
 {
-    "dayOfWeek": "Week of Jan 15th",
+    "dayOfWeek": "Week of Jan 22nd",
     "schedule": [
         {
-            "day": "mon",
+            "day": "wed",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Into The Shadow's Breach"
+            "name": "Dawn Of Ganymede"
+        },
+        {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
         }
     ]
 }
