@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Jan 22nd",
+    "dayOfWeek": "Week of Jan 29th",
     "schedule": [
         {
             "day": "wed",
@@ -14,13 +14,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
-        },
-        {
-            "day": "fri",
-            "hours": 17,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Enshrouded (#sponsored)"
         }
     ]
 }
