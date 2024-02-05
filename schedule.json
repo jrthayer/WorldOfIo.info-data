@@ -1,12 +1,26 @@
 {
-    "dayOfWeek": "Week of Jan 29th",
+    "dayOfWeek": "Week of Feb 5th",
     "schedule": [
+        {
+            "day": "mon",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Into The Shadow's Breach"
+        },
+        {
+            "day": "tues",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Curious Curios"
+        },
         {
             "day": "wed",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Dawn Of Ganymede"
+            "name": "Why Slay Dragons when you could be FISHING"
         },
         {
             "day": "thurs",
@@ -14,6 +28,13 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
+        },
+        {
+            "day": "thurs",
+            "hours": 13,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Special Announcement Stream "
         }
     ]
 }
