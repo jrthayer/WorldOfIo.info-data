@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Feb 5th",
+    "dayOfWeek": "Week of Feb 12th",
     "schedule": [
         {
             "day": "mon",
@@ -20,21 +20,7 @@
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Why Slay Dragons when you could be FISHING"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
-        },
-        {
-            "day": "fri",
-            "hours": 13,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Special Announcement Stream "
+            "name": "Dawn of Ganymede"
         }
     ]
 }
