@@ -1,12 +1,19 @@
 {
-    "dayOfWeek": "Week of Mar 11th",
+    "dayOfWeek": "Week of Mar 18th",
     "schedule": [
         {
             "day": "mon",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
-            "name": "Why Slay Dragons when you could be FISHING "
+            "name": "Into the Shadow's Breach"
+        },
+        {
+            "day": "wed",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Dawn of Ganymede"
         },
         {
             "day": "thurs",
