@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Mar 18th",
+    "dayOfWeek": "Week of Mar 25th",
     "schedule": [
         {
             "day": "mon",
@@ -17,7 +17,7 @@
         },
         {
             "day": "thurs",
-            "hours": 16,
+            "hours": 17,
             "minutes": 0,
             "timezone": "est",
             "name": "Deadbeats"
