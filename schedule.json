@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Mar 25th",
+    "dayOfWeek": "Week of Apr 1st",
     "schedule": [
         {
             "day": "mon",
@@ -14,13 +14,6 @@
             "minutes": 0,
             "timezone": "est",
             "name": "Dawn of Ganymede"
-        },
-        {
-            "day": "thurs",
-            "hours": 17,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
         }
     ]
 }
