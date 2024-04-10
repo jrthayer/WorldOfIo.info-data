@@ -1,19 +1,19 @@
 {
-    "dayOfWeek": "Week of Apr 1st",
+    "dayOfWeek": "Week of Apr 8th",
     "schedule": [
-        {
-            "day": "mon",
-            "hours": 20,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Into the Shadow's Breach"
-        },
         {
             "day": "wed",
             "hours": 20,
             "minutes": 0,
             "timezone": "est",
             "name": "Dawn of Ganymede"
+        },
+        {
+            "day": "fri",
+            "hours": 17,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Content Warning"
         }
     ]
 }
