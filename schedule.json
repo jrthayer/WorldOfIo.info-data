@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Apr 8th",
+    "dayOfWeek": "Week of Apr 15th",
     "schedule": [
         {
             "day": "wed",
@@ -10,10 +10,10 @@
         },
         {
             "day": "fri",
-            "hours": 17,
+            "hours": 18,
             "minutes": 0,
             "timezone": "est",
-            "name": "Content Warning"
+            "name": "Outward Co-Op with TheCrownedDM! "
         }
     ]
 }
