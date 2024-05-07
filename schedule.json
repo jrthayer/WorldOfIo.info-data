@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of Apr 15th",
+    "dayOfWeek": "Week of May 6th",
     "schedule": [
         {
             "day": "wed",
@@ -9,8 +9,15 @@
             "name": "Dawn of Ganymede"
         },
         {
+            "day": "thurs",
+            "hours": 16,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Deadbeats"
+        },
+        {
             "day": "fri",
-            "hours": 18,
+            "hours": 16,
             "minutes": 0,
             "timezone": "est",
             "name": "Outward Co-Op with TheCrownedDM! "
