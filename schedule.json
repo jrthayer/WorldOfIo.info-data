@@ -1,6 +1,13 @@
 {
-    "dayOfWeek": "Week of May 6th",
+    "dayOfWeek": "Week of May 20th",
     "schedule": [
+        {
+            "day": "mon",
+            "hours": 20,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "Into the Shadow's Breach"
+        },
         {
             "day": "wed",
             "hours": 20,
@@ -10,17 +17,17 @@
         },
         {
             "day": "thurs",
-            "hours": 16,
+            "hours": 14,
             "minutes": 0,
             "timezone": "est",
-            "name": "Deadbeats"
+            "name": "Terraria Calamity Co-Op with TheCrownedDM! "
         },
         {
             "day": "fri",
-            "hours": 16,
+            "hours": 14,
             "minutes": 0,
             "timezone": "est",
-            "name": "Outward Co-Op with TheCrownedDM! "
+            "name": "Terraria Calamity Co-Op with TheCrownedDM! "
         }
     ]
 }
