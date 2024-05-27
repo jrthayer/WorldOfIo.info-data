@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of May 20th",
+    "dayOfWeek": "Week of May 27th",
     "schedule": [
         {
             "day": "mon",
@@ -10,17 +10,17 @@
         },
         {
             "day": "wed",
-            "hours": 20,
+            "hours": 16,
             "minutes": 0,
             "timezone": "est",
-            "name": "Dawn of Ganymede"
+            "name": "Curse of Strahd HARDCORE Session 0"
         },
         {
             "day": "thurs",
-            "hours": 14,
+            "hours": 16,
             "minutes": 0,
             "timezone": "est",
-            "name": "Terraria Calamity Co-Op with TheCrownedDM! "
+            "name": "Deadbeats"
         },
         {
             "day": "fri",
