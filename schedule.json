@@ -1,12 +1,12 @@
 {
-    "dayOfWeek": "Week of June 24th",
+    "dayOfWeek": "Week of July 1st",
     "schedule": [
         {
-            "day": "mon",
-            "hours": 20,
+            "day": "wed",
+            "hours": 16,
             "minutes": 0,
             "timezone": "est",
-            "name": "Into the Shadow's Breach"
+            "name": "Curse of Strahd HARDCORE"
         },
         {
             "day": "thurs",
