@@ -1,5 +1,5 @@
 {
-    "dayOfWeek": "Week of August 5th",
+    "dayOfWeek": "Week of August 12th",
     "schedule": [
         {
             "day": "mon",
@@ -9,18 +9,18 @@
             "name": "Into The Shadow's Breach"
         },
         {
+            "day": "tues",
+            "hours": 13,
+            "minutes": 0,
+            "timezone": "est",
+            "name": "New Mini Campaign Announcement Stream"
+        },
+        {
             "day": "wed",
             "hours": 16,
             "minutes": 0,
             "timezone": "est",
             "name": "Curse of Strahd HARDCORE"
-        },
-        {
-            "day": "thurs",
-            "hours": 16,
-            "minutes": 0,
-            "timezone": "est",
-            "name": "Deadbeats"
         }
     ]
 }
