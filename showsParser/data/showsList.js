@@ -3,14 +3,6 @@ const showsList = [
     { title: "Phase 2", seasons: [] },
     { title: "Phase 3", concluded: false, seasons: [] },
     {
-        title: "Phase 2 Major Events",
-        seasonMatchStrings: [
-            "Kaasma Khara Final Battle",
-            "Chamber of the Eight",
-            "The Shadow Invasion",
-        ],
-    },
-    {
         title: "Arcane Academy",
         seasonMatchStrings: [
             "",
