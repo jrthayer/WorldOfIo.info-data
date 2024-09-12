@@ -105,6 +105,10 @@ const exceptionsList = [
         title: "Dawn of Ganyemde",
         showsToAddTo: [{ title: "Dawn of Ganymede" }, { title: "Phase 3" }],
     },
+    {
+        title: "Deabeats",
+        showsToAddTo: [{ title: "Deadbeats" }, { title: "Phase 3" }],
+    },
 ];
 
 module.exports = exceptionsList;
